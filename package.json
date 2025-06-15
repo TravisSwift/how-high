@@ -1,0 +1,24 @@
+{
+  "name": "how-high",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+      "dev": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TravisSwift/how-high.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TravisSwift/how-high/issues"
+  },
+  "homepage": "https://github.com/TravisSwift/how-high#readme",
+  "devDependencies": {
+    "vite": "^6.0.11"
+  }
+}
